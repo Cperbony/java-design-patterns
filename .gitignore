@@ -1,4 +1,5 @@
 .idea/
 java-design-pattern2e.iml
 out/
-src/jdp2e/cperbony/ch02/prototype/*
+.gitignore
+
